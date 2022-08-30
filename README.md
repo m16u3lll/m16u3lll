@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Miguel Ángel Jaramillo (@m16u3lll)
+- 👋 Hi, I’m Miguel Ángel Jaramillo Quenguán. (@m16u3lll)
 - 👀 I’m interested in science and technology. 
 - 🌱 I’m currently learning physics and programing.
 - 💞️ I’m looking to collaborate on undergradute projetcs in pysics fields.
-<!-- 📫 You can get on touch with me at miguel.quenguan@correounivalle.edu.co
+- 📫 You can get on touch with me at miguel.quenguan@correounivalle.edu.co
 
 
 <!---
